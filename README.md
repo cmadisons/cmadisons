@@ -2,11 +2,16 @@
 
 I make browser games, web apps, and Minecraft mods.
 
-## 🕹️ Play right now
+# 🕹️ [**Open the Arcade →**](https://cmadisons.github.io/arcade/)
+
+One page that launches everything. Works on phones and tablets, and you can
+add it to your home screen like a real app.
+
+## 🎯 Or jump straight in
 
 | Project | | |
 |---|---|---|
-| ⚾ **All Live Baseball** — live baseball app with levels, quests, and umpire mode | [▶️ Open](https://cmadisons.github.io/all-live-baseball/) | [📄 Code](https://github.com/cmadisons/all-live-baseball) |
+| ⚾ **All Live Baseball** — live scores, predictions, levels, quests, umpire mode | [▶️ Open](https://cmadisons.github.io/all-live-baseball/) | [📄 Code](https://github.com/cmadisons/all-live-baseball) |
 | 🎮 **Minigames** — Pacman, Memory, Rock Paper Scissors, Hedgehog, Guess 1–100 | [▶️ Play](https://cmadisons.github.io/minigames/) | [📄 Code](https://github.com/cmadisons/minigames) |
 
 ## ⛏️ Minecraft mods
