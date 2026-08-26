@@ -20,8 +20,11 @@ add it to your home screen like a real app.
 |---|---|
 | 🌀 **Random Teleport** — press `G` to teleport somewhere random | [📄 Code](https://github.com/cmadisons/random-teleport) |
 | 🧪 **Example Mod** — a blank canvas for new mod ideas | [📄 Code](https://github.com/cmadisons/example-mod) |
+| 🗡️ **Zelda Mod** — play as Link in Hyrule | [📄 Code](https://github.com/cmadisons/zelda-mod) |
+| 🏝️ **Sky Blocks Mod** — survive on a tiny island in the void | [📄 Code](https://github.com/cmadisons/skyblock-mod) |
+| 🚀 **Ship Life** — live on a giant space ship: quests, floors, arcade, pets, races and events | [📄 Code](https://github.com/cmadisons/ship-life) |
 
-Both are Fabric mods for Minecraft 26.1.2.
+They are all Fabric mods for Minecraft 26.1.2.
 
 ---
 
